@@ -1,0 +1,1030 @@
+{
+  "Andhra Pradesh": {
+    "Visakhapatnam": {
+      "places": [
+        {
+          "name": "Rama Krishna Beach",
+          "type": "attraction",
+          "description": "Popular beach in Visakhapatnam with promenades and views.",
+          "location": "Visakhapatnam",
+          "price": "Free",
+          "rating": 4.5
+        },
+        {
+          "name": "Radisson Blu Resort Visakhapatnam",
+          "type": "hotel",
+          "description": "Luxury resort with beach views and amenities.",
+          "location": "Visakhapatnam",
+          "price": " $",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Tirupati": {
+      "places": [
+        {
+          "name": "Venkateshvara Temple",
+          "type": "attraction",
+          "description": "Famous Hindu temple on Tirumala hills.",
+          "location": "Tirupati",
+          "price": "Free entry, donations",
+          "rating": 4.8
+        },
+        {
+          "name": "Golden Tulip Tirupati",
+          "type": "hotel",
+          "description": "Comfortable hotel near temple.",
+          "location": "Tirupati",
+          "price": " ",
+          "rating": 4.0
+        }
+      ]
+    },
+    "Vijayawada": {
+      "places": [
+        {
+          "name": "Kanaka Durga Temple",
+          "type": "attraction",
+          "description": "Ancient temple on Indrakeeladri hill.",
+          "location": "Vijayawada",
+          "price": "Free",
+          "rating": 4.6
+        },
+        {
+          "name": "Novotel Vijayawada Varun",
+          "type": "hotel",
+          "description": "Modern hotel in city center.",
+          "location": "Vijayawada",
+          "price": "$$$",
+          "rating": 4.1
+        }
+      ]
+    }
+  },
+  "Arunachal Pradesh": {
+    "Tawang": {
+      "places": [
+        {
+          "name": "Tawang Buddhist Monastery",
+          "type": "attraction",
+          "description": "Ancient monastery with stunning views.",
+          "location": "Tawang",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Ziro": {
+      "places": [
+        {
+          "name": "Ziro Valley",
+          "type": "attraction",
+          "description": "Scenic valley known for rice fields and festivals.",
+          "location": "Ziro",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Namdapha": {
+      "places": [
+        {
+          "name": "Namdapha National Park",
+          "type": "attraction",
+          "description": "Biodiverse tiger reserve.",
+          "location": "Namdapha",
+          "price": "₹400",
+          "rating": 4.5
+        }
+      ]
+    }
+  },
+  "Assam": {
+    "Guwahati": {
+      "places": [
+        {
+          "name": "Kamakhya Temple",
+          "type": "attraction",
+          "description": "Sacred Shakti Peeth temple.",
+          "location": "Guwahati",
+          "price": "Free",
+          "rating": 4.7
+        },
+        {
+          "name": "Pan Bazaar",
+          "type": "shopping",
+          "description": "Bustling market for books and handicrafts.",
+          "location": "Guwahati",
+          "price": "Varies",
+          "rating": 4.4
+        }
+      ]
+    },
+    "Kaziranga": {
+      "places": [
+        {
+          "name": "Kaziranga National Park",
+          "type": "attraction",
+          "description": "UNESCO site for one-horned rhinos.",
+          "location": "Kaziranga",
+          "price": "₹200",
+          "rating": 4.8
+        }
+      ]
+    },
+    "Majuli": {
+      "places": [
+        {
+          "name": "Majuli Island",
+          "type": "attraction",
+          "description": "Largest river island with satras.",
+          "location": "Majuli",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Bihar": {
+    "Bodhgaya": {
+      "places": [
+        {
+          "name": "Mahabodhi Temple",
+          "type": "attraction",
+          "description": "UNESCO site where Buddha attained enlightenment.",
+          "location": "Bodhgaya",
+          "price": "Free",
+          "rating": 4.8
+        }
+      ]
+    },
+    "Patna": {
+      "places": [
+        {
+          "name": "Golghar",
+          "type": "attraction",
+          "description": "Granary with panoramic views.",
+          "location": "Patna",
+          "price": "₹10",
+          "rating": 4.4
+        }
+      ]
+    },
+    "Gaya": {
+      "places": [
+        {
+          "name": "Vishnupad Temple",
+          "type": "attraction",
+          "description": "Temple with Vishnu's footprint.",
+          "location": "Gaya",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Chhattisgarh": {
+    "Raipur": {
+      "places": [
+        {
+          "name": "Mahant Ghasidas Memorial Museum",
+          "type": "attraction",
+          "description": "Museum showcasing tribal culture.",
+          "location": "Raipur",
+          "price": "₹10",
+          "rating": 4.3
+        }
+      ]
+    },
+    "Bastar": {
+      "places": [
+        {
+          "name": "Chitrakote Waterfall",
+          "type": "attraction",
+          "description": "Niagara of India.",
+          "location": "Bastar",
+          "price": "₹20",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Goa": {
+    "Panaji": {
+      "places": [
+        {
+          "name": "Basilica of Bom Jesus",
+          "type": "attraction",
+          "description": "UNESCO site with St. Francis Xavier's remains.",
+          "location": "Panaji",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Baga": {
+      "places": [
+        {
+          "name": "Baga Beach",
+          "type": "attraction",
+          "description": "Vibrant beach with water sports.",
+          "location": "Baga",
+          "price": "Free",
+          "rating": 4.3
+        }
+      ]
+    },
+    "Palolem": {
+      "places": [
+        {
+          "name": "Palolem Beach",
+          "type": "attraction",
+          "description": "Pristine crescent beach.",
+          "location": "Palolem",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Gujarat": {
+    "Ahmedabad": {
+      "places": [
+        {
+          "name": "Sabarmati Ashram",
+          "type": "attraction",
+          "description": "Gandhi's residence and museum.",
+          "location": "Ahmedabad",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Dwarka": {
+      "places": [
+        {
+          "name": "Dwarkadhish Temple",
+          "type": "attraction",
+          "description": "Ancient Krishna temple.",
+          "location": "Dwarka",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Gir": {
+      "places": [
+        {
+          "name": "Gir National Park",
+          "type": "attraction",
+          "description": "Last habitat of Asiatic lions.",
+          "location": "Gir",
+          "price": "₹600",
+          "rating": 4.5
+        }
+      ]
+    }
+  },
+  "Haryana": {
+    "Gurgaon": {
+      "places": [
+        {
+          "name": "Kingdom of Dreams",
+          "type": "attraction",
+          "description": "Theme park with cultural shows.",
+          "location": "Gurgaon",
+          "price": "₹1000",
+          "rating": 4.4
+        },
+        {
+          "name": "Cyber Hub",
+          "type": "shopping",
+          "description": "Dining and entertainment hub.",
+          "location": "Gurgaon",
+          "price": "Varies",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Kurukshetra": {
+      "places": [
+        {
+          "name": "Sultanpur Bird Sanctuary",
+          "type": "attraction",
+          "description": "Birdwatching haven.",
+          "location": "Kurukshetra",
+          "price": "₹50",
+          "rating": 4.3
+        }
+      ]
+    }
+  },
+  "Himachal Pradesh": {
+    "Shimla": {
+      "places": [
+        {
+          "name": "Mall Road",
+          "type": "shopping",
+          "description": "Bustling street with shops and cafes.",
+          "location": "Shimla",
+          "price": "Varies",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Manali": {
+      "places": [
+        {
+          "name": "Rohtang Pass",
+          "type": "attraction",
+          "description": "High mountain pass with snow.",
+          "location": "Manali",
+          "price": "₹500 permit",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Dharamshala": {
+      "places": [
+        {
+          "name": "McLeod Ganj",
+          "type": "attraction",
+          "description": "Tibetan exile hub.",
+          "location": "Dharamshala",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Jharkhand": {
+    "Ranchi": {
+      "places": [
+        {
+          "name": "Tagore Hill",
+          "type": "attraction",
+          "description": "Hill with Tagore's memorial.",
+          "location": "Ranchi",
+          "price": "Free",
+          "rating": 4.2
+        }
+      ]
+    },
+    "Jamshedpur": {
+      "places": [
+        {
+          "name": "Jubilee Park",
+          "type": "attraction",
+          "description": "Well-maintained park with zoo.",
+          "location": "Jamshedpur",
+          "price": "Free",
+          "rating": 4.4
+        }
+      ]
+    }
+  },
+  "Karnataka": {
+    "Bangalore": {
+      "places": [
+        {
+          "name": "Bangalore Palace",
+          "type": "attraction",
+          "description": "Tudor-style palace.",
+          "location": "Bangalore",
+          "price": "₹500",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Mysore": {
+      "places": [
+        {
+          "name": "Mysore Palace",
+          "type": "attraction",
+          "description": "Grand royal palace.",
+          "location": "Mysore",
+          "price": "₹70",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Hampi": {
+      "places": [
+        {
+          "name": "Virupaksha Temple",
+          "type": "attraction",
+          "description": "UNESCO ruin temple.",
+          "location": "Hampi",
+          "price": "₹40",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Kerala": {
+    "Munnar": {
+      "places": [
+        {
+          "name": "Tea Estates",
+          "type": "attraction",
+          "description": "Lush tea plantations.",
+          "location": "Munnar",
+          "price": "Free",
+          "rating": 4.8
+        }
+      ]
+    },
+    "Alleppey": {
+      "places": [
+        {
+          "name": "Backwaters",
+          "type": "attraction",
+          "description": "Houseboat cruises on canals.",
+          "location": "Alleppey",
+          "price": "₹2000/day",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Kochi": {
+      "places": [
+        {
+          "name": "Fort Kochi",
+          "type": "attraction",
+          "description": "Colonial area with Chinese nets.",
+          "location": "Kochi",
+          "price": "Free",
+          "rating": 4.5
+        }
+      ]
+    }
+  },
+  "Madhya Pradesh": {
+    "Bhopal": {
+      "places": [
+        {
+          "name": "Bhimbetka Rock Shelters",
+          "type": "attraction",
+          "description": "Prehistoric cave paintings.",
+          "location": "Bhopal",
+          "price": "₹25",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Khajuraho": {
+      "places": [
+        {
+          "name": "Khajuraho Temples",
+          "type": "attraction",
+          "description": "UNESCO erotic sculptures.",
+          "location": "Khajuraho",
+          "price": "₹40",
+          "rating": 4.8
+        }
+      ]
+    },
+    "Gwalior": {
+      "places": [
+        {
+          "name": "Gwalior Fort",
+          "type": "attraction",
+          "description": "Historic hill fort.",
+          "location": "Gwalior",
+          "price": "₹75",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Maharashtra": {
+    "Mumbai": {
+      "places": [
+        {
+          "name": "Gateway of India",
+          "type": "attraction",
+          "description": "Iconic arch monument.",
+          "location": "Mumbai",
+          "price": "Free",
+          "rating": 4.6
+        },
+        {
+          "name": "Marine Drive",
+          "type": "attraction",
+          "description": "Scenic promenade.",
+          "location": "Mumbai",
+          "price": "Free",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Ajanta": {
+      "places": [
+        {
+          "name": "Ajanta Caves",
+          "type": "attraction",
+          "description": "Ancient Buddhist rock-cut caves.",
+          "location": "Ajanta",
+          "price": "₹40",
+          "rating": 4.8
+        }
+      ]
+    }
+  },
+  "Manipur": {
+    "Imphal": {
+      "places": [
+        {
+          "name": "Kangla Fort",
+          "type": "attraction",
+          "description": "Historic royal complex.",
+          "location": "Imphal",
+          "price": "Free",
+          "rating": 4.4
+        },
+        {
+          "name": "Ema Keithel Market",
+          "type": "shopping",
+          "description": "All-women market.",
+          "location": "Imphal",
+          "price": "Varies",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Loktak": {
+      "places": [
+        {
+          "name": "Loktak Lake",
+          "type": "attraction",
+          "description": "Floating island lake.",
+          "location": "Loktak",
+          "price": "₹30",
+          "rating": 4.4
+        }
+      ]
+    }
+  },
+  "Meghalaya": {
+    "Shillong": {
+      "places": [
+        {
+          "name": "Umiam Lake",
+          "type": "attraction",
+          "description": "Scenic reservoir for boating.",
+          "location": "Shillong",
+          "price": "₹50",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Cherrapunji": {
+      "places": [
+        {
+          "name": "Living Root Bridges",
+          "type": "attraction",
+          "description": "Natural bio-engineered bridges.",
+          "location": "Cherrapunji",
+          "price": "₹50",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Dawki": {
+      "places": [
+        {
+          "name": "Umngot River",
+          "type": "attraction",
+          "description": "Crystal clear river for boating.",
+          "location": "Dawki",
+          "price": "₹400",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Mizoram": {
+    "Aizawl": {
+      "places": [
+        {
+          "name": "Solomon's Temple",
+          "type": "attraction",
+          "description": "Modern church with views.",
+          "location": "Aizawl",
+          "price": "Free",
+          "rating": 4.4
+        },
+        {
+          "name": "Bara Bazaar",
+          "type": "shopping",
+          "description": "Local market for handicrafts.",
+          "location": "Aizawl",
+          "price": "Varies",
+          "rating": 4.2
+        }
+      ]
+    },
+    "Champhai": {
+      "places": [
+        {
+          "name": "Mizoram-Myanmar Border",
+          "type": "attraction",
+          "description": "Scenic border views.",
+          "location": "Champhai",
+          "price": "Free",
+          "rating": 4.3
+        }
+      ]
+    }
+  },
+  "Nagaland": {
+    "Kohima": {
+      "places": [
+        {
+          "name": "Kohima War Cemetery",
+          "type": "attraction",
+          "description": "WWII memorial.",
+          "location": "Kohima",
+          "price": "Free",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Dimapur": {
+      "places": [
+        {
+          "name": "Kachari Ruins",
+          "type": "attraction",
+          "description": "Ancient stone ruins.",
+          "location": "Dimapur",
+          "price": "Free",
+          "rating": 4.2
+        }
+      ]
+    }
+  },
+  "Odisha": {
+    "Puri": {
+      "places": [
+        {
+          "name": "Jagannath Temple",
+          "type": "attraction",
+          "description": "Famous chariot festival temple.",
+          "location": "Puri",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Konark": {
+      "places": [
+        {
+          "name": "Konark Sun Temple",
+          "type": "attraction",
+          "description": "UNESCO chariot-shaped temple.",
+          "location": "Konark",
+          "price": "₹40",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Bhubaneswar": {
+      "places": [
+        {
+          "name": "Lingaraj Temple",
+          "type": "attraction",
+          "description": "Ancient Shiva temple.",
+          "location": "Bhubaneswar",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Punjab": {
+    "Amritsar": {
+      "places": [
+        {
+          "name": "Golden Temple",
+          "type": "attraction",
+          "description": "Sikhism's holiest shrine.",
+          "location": "Amritsar",
+          "price": "Free",
+          "rating": 4.8
+        },
+        {
+          "name": "Jallianwala Bagh",
+          "type": "attraction",
+          "description": "Massacre memorial garden.",
+          "location": "Amritsar",
+          "price": "Free",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Chandigarh": {
+      "places": [
+        {
+          "name": "Rock Garden",
+          "type": "attraction",
+          "description": "Unique sculpture garden.",
+          "location": "Chandigarh",
+          "price": "₹20",
+          "rating": 4.4
+        },
+        {
+          "name": "Sukhna Lake",
+          "type": "attraction",
+          "description": "Man-made lake for boating.",
+          "location": "Chandigarh",
+          "price": "₹50",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Rajasthan": {
+    "Jaipur": {
+      "places": [
+        {
+          "name": "Hawa Mahal",
+          "type": "attraction",
+          "description": "Palace of Winds.",
+          "location": "Jaipur",
+          "price": "₹50",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Udaipur": {
+      "places": [
+        {
+          "name": "Lake Pichola",
+          "type": "attraction",
+          "description": "Romantic lake with boat rides.",
+          "location": "Udaipur",
+          "price": "₹400",
+          "rating": 4.7
+        }
+      ]
+    },
+    "Jodhpur": {
+      "places": [
+        {
+          "name": "Mehrangarh Fort",
+          "type": "attraction",
+          "description": "Majestic hill fort.",
+          "location": "Jodhpur",
+          "price": "₹100",
+          "rating": 4.8
+        }
+      ]
+    }
+  },
+  "Sikkim": {
+    "Gangtok": {
+      "places": [
+        {
+          "name": "MG Marg",
+          "type": "shopping",
+          "description": "Pedestrian street with shops and eateries.",
+          "location": "Gangtok",
+          "price": "Varies",
+          "rating": 4.5
+        },
+        {
+          "name": "Tsomgo Lake",
+          "type": "attraction",
+          "description": "High-altitude glacial lake.",
+          "location": "Gangtok",
+          "price": "₹200",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Pelling": {
+      "places": [
+        {
+          "name": "Kanchenjunga View",
+          "type": "attraction",
+          "description": "Panoramic mountain views.",
+          "location": "Pelling",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Tamil Nadu": {
+    "Chennai": {
+      "places": [
+        {
+          "name": "Marina Beach",
+          "type": "attraction",
+          "description": "Longest urban beach.",
+          "location": "Chennai",
+          "price": "Free",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Ooty": {
+      "places": [
+        {
+          "name": "Ooty Lake",
+          "type": "attraction",
+          "description": "Boating lake in hills.",
+          "location": "Ooty",
+          "price": "₹50",
+          "rating": 4.4
+        }
+      ]
+    },
+    "Madurai": {
+      "places": [
+        {
+          "name": "Meenakshi Temple",
+          "type": "attraction",
+          "description": "Dravidian architecture marvel.",
+          "location": "Madurai",
+          "price": "₹50",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "Telangana": {
+    "Hyderabad": {
+      "places": [
+        {
+          "name": "Charminar",
+          "type": "attraction",
+          "description": "Iconic mosque and monument.",
+          "location": "Hyderabad",
+          "price": "₹5",
+          "rating": 4.6
+        },
+        {
+          "name": "Golconda Fort",
+          "type": "attraction",
+          "description": "Historic fortress with acoustics.",
+          "location": "Hyderabad",
+          "price": "₹20",
+          "rating": 4.5
+        }
+      ]
+    }
+  },
+  "Tripura": {
+    "Agartala": {
+      "places": [
+        {
+          "name": "Ujjayanta Palace",
+          "type": "attraction",
+          "description": "Royal palace now museum.",
+          "location": "Agartala",
+          "price": "₹20",
+          "rating": 4.4
+        }
+      ]
+    },
+    "Melaghar": {
+      "places": [
+        {
+          "name": "Neermahal Palace",
+          "type": "attraction",
+          "description": "Water palace on Rudrasagar Lake.",
+          "location": "Melaghar",
+          "price": "₹20",
+          "rating": 4.3
+        }
+      ]
+    }
+  },
+  "Uttar Pradesh": {
+    "Agra": {
+      "places": [
+        {
+          "name": "Taj Mahal",
+          "type": "attraction",
+          "description": "Mausoleum of love.",
+          "location": "Agra",
+          "price": "₹50",
+          "rating": 4.8
+        },
+        {
+          "name": "Agra Fort",
+          "type": "attraction",
+          "description": "Red sandstone fort.",
+          "location": "Agra",
+          "price": "₹50",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Varanasi": {
+      "places": [
+        {
+          "name": "Kashi Vishwanath Temple",
+          "type": "attraction",
+          "description": "Sacred Shiva temple.",
+          "location": "Varanasi",
+          "price": "Free",
+          "rating": 4.7
+        },
+        {
+          "name": "Ghats",
+          "type": "attraction",
+          "description": "Riverfront steps for rituals.",
+          "location": "Varanasi",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    }
+  },
+  "Uttarakhand": {
+    "Rishikesh": {
+      "places": [
+        {
+          "name": "Triveni Ghat",
+          "type": "attraction",
+          "description": "Confluence of rivers for aarti.",
+          "location": "Rishikesh",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Nainital": {
+      "places": [
+        {
+          "name": "Naini Lake",
+          "type": "attraction",
+          "description": "Pearl-shaped lake.",
+          "location": "Nainital",
+          "price": "₹60 boating",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Haridwar": {
+      "places": [
+        {
+          "name": "Har Ki Pauri",
+          "type": "attraction",
+          "description": "Ghat for Ganga aarti.",
+          "location": "Haridwar",
+          "price": "Free",
+          "rating": 4.7
+        }
+      ]
+    }
+  },
+  "West Bengal": {
+    "Kolkata": {
+      "places": [
+        {
+          "name": "Victoria Memorial",
+          "type": "attraction",
+          "description": "British Raj museum.",
+          "location": "Kolkata",
+          "price": "₹30",
+          "rating": 4.7
+        },
+        {
+          "name": "Howrah Bridge",
+          "type": "attraction",
+          "description": "Iconic cantilever bridge.",
+          "location": "Kolkata",
+          "price": "Free",
+          "rating": 4.6
+        }
+      ]
+    },
+    "Darjeeling": {
+      "places": [
+        {
+          "name": "Tiger Hill",
+          "type": "attraction",
+          "description": "Sunrise over Kanchenjunga.",
+          "location": "Darjeeling",
+          "price": "₹50",
+          "rating": 4.5
+        }
+      ]
+    },
+    "Sundarbans": {
+      "places": [
+        {
+          "name": "Sundarbans National Park",
+          "type": "attraction",
+          "description": "Mangrove forest with tigers.",
+          "location": "Sundarbans",
+          "price": "₹150",
+          "rating": 4.6
+        }
+      ]
+    }
+  }
+}
