@@ -183,6 +183,9 @@ Invalid API key	Check .env
 CORS errors	Verify frontend proxy in package.json
 Missing modules	Run npm install or pip install again
 
+#2 min demo video
+
+https://github.com/user-attachments/assets/36333f6d-7535-414c-b37f-7fe17dacf150
 
 
 
