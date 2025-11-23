@@ -182,3 +182,4 @@ Backend not responding	Ensure it runs on port 8000
 Invalid API key	Check .env
 CORS errors	Verify frontend proxy in package.json
 Missing modules	Run npm install or pip install again
+
